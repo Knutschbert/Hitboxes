@@ -3,7 +3,7 @@
 "name": "Hitboxes",
 "description": "This mod makes weapon hitboxes visible. Shows:\n\n- normal hitboxes\n\n- world hitboxes\n\n- weapon phases.\n\n\n\nThis mod currently only works offline to ensure fair play.",
 "mod_type": "Shared",
-"image_url": "",
+"image_url": "https://raw.githubusercontent.com/Knutschbert/Hitboxes/refs/heads/main/images/hitboxes_image.png",
 "authors": [
 "Nihi"
 ],
