@@ -1,0 +1,23 @@
+{
+"repo_url": "https://github.com/Knutschbert/Hitboxes",
+"name": "Hitboxes",
+"description": "This mod makes weapon hitboxes visible. Shows:\n\n- normal hitboxes\n\n- world hitboxes\n\n- weapon phases.\n\n\n\nThis mod currently only works offline to ensure fair play.",
+"mod_type": "Shared",
+"image_url": "",
+"authors": [
+"Nihi"
+],
+"dependencies": [
+{
+"repo_url": "https://github.com/Chiv2-Community/Unchained-Mods",
+"version": "0.1.0"
+}
+],
+"tags": [
+"Mutator"
+],
+"maps": [],
+"options": {
+"actor_mod": true
+}
+}
